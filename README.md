@@ -4,7 +4,7 @@
 
 ## 1. Visão Geral do Projeto
 
-Esta é uma API RESTful desenvolvida em **Java 17** com **Spring Boot**, projetada para validar a força de senhas com base em um conjunto de regras de negócio customizáveis. A solução foi construída com foco em **Clean Code**, **SOLID**, extensibilidade e alta cobertura de testes, demonstrando práticas de desenvolvimento de software modernas e robustas.
+Esta é uma API RESTful desenvolvida em **Java** com **Spring Boot**, projetada para validar a força de senhas com base em um conjunto de regras de negócio customizáveis. A solução foi construída com foco em **Clean Code**, **SOLID**, extensibilidade e alta cobertura de testes, demonstrando práticas de desenvolvimento de software modernas e robustas.
 
 O principal objetivo é expor um endpoint que recebe uma senha e retorna uma resposta clara, indicando se ela é válida e, em caso de falha, quais critérios não foram atendidos.
 
