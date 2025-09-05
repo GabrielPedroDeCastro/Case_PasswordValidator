@@ -135,10 +135,5 @@ Para executar os testes, utilize o comando:
 mvn test
 ```
 
-## 6. Pontos de Melhoria Futuros
-
--   **Internacionalização (i18n)**: Mover as mensagens de erro para arquivos de propriedades (`messages.properties`) para suportar múltiplos idiomas.
--   **Documentação da API com OpenAPI/Swagger**: Adicionar dependências para gerar automaticamente uma documentação interativa da API.
--   **Métricas e Monitoramento**: Integrar o Spring Boot Actuator para expor métricas de saúde e performance da aplicação.
 
 
