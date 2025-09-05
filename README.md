@@ -128,7 +128,7 @@ A API expõe um único endpoint para a validação de senhas.
 O projeto possui uma suíte de testes robusta que valida tanto a lógica de negócio quanto a integração da API.
 
 -   **Testes Unitários (`ServicoValidacaoSenhaTest`, `ValidadorPadraoSenhaTest`, etc.):** Focam em testar cada regra de validação isoladamente, garantindo que a lógica de negócio esteja correta.
--   **Testes de Integração (`ControladorSenhaTest`):** Utilizam `@WebMvcTest` para testar a camada de controle, simulando requisições HTTP e verificando se as respostas estão corretas, sem a necessidade de subir um servidor completo.
+
 
 Para executar os testes, utilize o comando:
 ```bash
