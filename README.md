@@ -49,8 +49,8 @@ Siga os passos abaixo para compilar, testar e executar o projeto localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio>
-    cd <diretorio-do-projeto>
+    git clone Case_PasswordValidator
+    cd Case_PasswordValidator
     ```
 
 2.  **Compile e execute os testes:**
